@@ -1,6 +1,7 @@
 #  智学网的爹 - Father of ZhiXue
 ### 通过智学网接口获取学生考试成绩，还有一些爹独到的分析。
-### 本项目使用Python + Django框架开发，使用pandas处理数据。
+### 本项目正在重构：前端使用Vue+Element，后端使用Python+FastAPI。
+### 代码将在重构全部完成后上传。
 ### [点此查看文档](https://github.com/immoses648/father-of-zhixue)（还没写捏）
 
 
